@@ -23,13 +23,17 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction:column;
+    gap:5px;
 
 }
 .btncon{
-    width: 300px;
-    height: 300px;
+    width: 305px;
+    height: 305px;
     display: flex;
     flex-wrap: wrap;
+    gap:2px;
+    
 
 
 }
